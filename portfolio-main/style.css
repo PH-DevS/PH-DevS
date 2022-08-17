@@ -47,7 +47,7 @@ aside {
 }
 
 .profile, .links, .technologies, .experiences, .education, .my-projects, 
-.project-1, .project-2, .project-3, .project-4, .recent-post, .posts {
+.project-1, .project-2, .recent-post, .posts {
     background: var(--bg-cards);
     box-shadow: 0.2rem 0.2rem 0.2rem 0.1rem rgba(0, 0, 0, 0.2);
     border-radius: 2rem;
