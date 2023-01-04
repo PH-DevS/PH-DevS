@@ -1,13 +1,28 @@
-- 👋 Hi, I’m @PH-DevS
-- 👀 I’m interested in Web Developer, Machine Learning and IA.
-- 🌱 I’m currently learning HTML, CSS, JS.
-- 📫 How to reach me:
-    - Email: phofficial.06@gmail.com
-    - Tel: +5551985184260
-    - Linkedin: https://www.linkedin.com/in/pedro-henrique-08753b20a/
+# 💫 About Me:
+👋 Hi, I’m @PH-DevS<br>👀 I’m interested in Web Developer, Machine Learning and IA.<br>🌱 I’m currently learning Programming logic, Java and Python.<br>📫 How to reach me:<br>Email: phofficial.06@gmail.com<br>Tel: +5551985184260<br>Linkedin: https://www.linkedin.com/in/pedro-henrique-08753b20a/
 
 
-<!---
-PH-DevS/PH-DevS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_phzinbr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedro-henrique-08753b20a/) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PH-DevS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PH-DevS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PH-DevS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PH-DevS&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=PH-DevS&icon=5&color=3)](https://visitcount.itsvg.in)
+
+![Snake animation](https://github.com/PH-DevS/PH-DevS/blob/output/github-contribution-grid-snake.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
