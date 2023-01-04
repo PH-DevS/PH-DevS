@@ -23,4 +23,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
